@@ -4,9 +4,9 @@
     <string name="activity2_text">Go to second</string>
     <string name="back_btn">Back</string>
     <string-array name="students_array">
-        <item>item1</item>
-        <item>item2</item>
-        <item>item3</item>
-        <item>item4</item>
+        <item>Alvis</item>
+        <item>Juris</item>
+        <item>Ivars</item>
+        <item>Ernests</item>
     </string-array>
 </resources>
