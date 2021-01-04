@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">HelloWorld</string>
+    <string name="app_name">Dialog</string>
     <string name="hello_text">This is the first application from Alvis</string>
     <string name="activity2_text">Go to second</string>
     <string name="back_btn">Back</string>
